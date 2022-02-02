@@ -1,8 +1,0 @@
-{
-    "type": "CAT",
-    "silent": true,
-    "passengers": [{
-        "type": "PARROT",
-        "customNameVisible": true
-    }]
-}
