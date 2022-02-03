@@ -62,20 +62,6 @@
             "minSpawns": 1,
             "rarity": 4,
             "energyMultiplier": 1.25
-        },
-        {
-            "entity": "unique/pandaUwU",
-            "maxSpawns": 1,
-            "minSpawns": 1,
-            "rarity": 15,
-            "energyMultiplier": 2.5
-        },
-        {
-            "entity": "unique/aeternum",
-            "maxSpawns": 1,
-            "minSpawns": 1,
-            "rarity": 15,
-            "energyMultiplier": 3
         }
     ]
 }
